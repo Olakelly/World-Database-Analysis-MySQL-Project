@@ -45,4 +45,7 @@ To run the SQL queries:
 * Some queries may include small syntax issues or typos (e.g., double titles in column aliases). Feel free to modify them as needed.
 * The dataset used is for educational purposes and may not represent up-to-date real-world data.
 
+## Queries Example
+
+![Screenshot 2025-06-10 053158](https://github.com/user-attachments/assets/65b11f5e-5f56-4229-a089-a825dd3a7ba7)
 
